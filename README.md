@@ -1,8 +1,8 @@
 # Bolt Quiz
 
-##Game Idea: Bolt Quiz
+## Game Idea: Bolt Quiz
 
-###My reasons to choose this idea: 
+### My reasons to choose this idea: 
 Me and my friends love quiz games but most of them is not fun to play and doesn't have enough topics to have quizes on. For example, we love to play [QuizUp](https://play.google.com/store/apps/details?id=com.quizup.core) but it's a fairly simple game and we don't feel challenged enough. Getting high on leaderboards is not rewarding as there is no reward mechanics so it's pretty much useless to be in Top 100. 
 
 I want to design and publish a game that make the user try hard as possible to beat each other in game while learning about new topics and professions which is another thing why I'm upset about [QuizUp](https://play.google.com/store/apps/details?id=com.quizup.core) being not fulfilling. 
