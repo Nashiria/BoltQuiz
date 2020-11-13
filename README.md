@@ -1,5 +1,5 @@
 # Bolt Quiz
-
+![Alt text](/Graphics/bolt logo.jpg?raw=true "Title")
 ## Game Idea: Bolt Quiz
 ### Game Page: https://github.com/Nashiria/BoltQuiz
 ### My reasons to choose this idea: 
