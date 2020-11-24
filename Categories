@@ -1,40 +1,40 @@
 Added Categories
 
 Music
-- [ ] -Name the Piano note
-- [ ] -Finish the Lyrics
-- [ ] -Finish the Song name
-- [ ] -Guess the album
-- [ ] -Guess the Singer
-- [ ] -Guess the Classical Song
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
+- [X] -Piano Notes
+- [ ] -Lyrics
+- [ ] -Song Names
+- [ ] -Music Theory
+- [ ] -Albums
+- [ ] -Singer
+- [ ] -Bands
+- [ ] -Classical Songs
+- [ ] -Instrurments
+- [ ] -00's Music
 
 Science
+- [ ] -Elements
+- [ ] -Medicine
+- [ ] -Biology
+- [ ] -Human Body
 - [ ] -Chemistry
 - [ ] -Physics
-- [ ] -Biology
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
+- [ ] -Psychology
+- [ ] -Meteorology
+- [ ] -Geology
+- [ ] -Computers
 
-Cars
-- [ ] -Logos
-- [ ] -Models
+Vehicles
+- [ ] -Cars
+- [ ] -Planes
+- [ ] -Tanks
+- [ ] -Motorcycles
+- [ ] -Racers
 - [ ] -F1
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
+- [ ] -Car Brands
+- [ ] -Car Specs
+- [ ] -Traffic Signs
+- [ ] -Trains
 
 People
 - [ ] -Leaders
@@ -49,64 +49,75 @@ People
 - [ ] -Internet Celebrity
 
 Games
-- [ ] -Finish the Game Title
-- [ ] -Guess the Game Character
-- [ ] -Guess the Release Year
-- [ ] -Guess the Game
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
+- [ ] -Game Titles
+- [ ] -Game Characters
+- [ ] -Release Years
+- [ ] -Games General
+- [ ] -Pokemons
+- [ ] -League of Legends
+- [ ] -Retro Games
+- [ ] -Game Companies
+- [ ] -Genres
+- [ ] -Skyrim
 
 General
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
+- [ ] -Knowledge
+- [ ] -History
+- [ ] -Stories
+- [ ] -People
+- [ ] -Musics
+- [ ] -Movies
+- [ ] -Quotes
+- [ ] -Foods
+- [ ] -Drinks
+- [ ] -Laws
 
 Movies
-- [ ] -Guess the Movie Title
-- [ ] -Finish the Movie Title
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
+- [X] -Movie Stars
+- [ ] -Movie Characters
+- [ ] -Movies
+- [ ] -TV Shows
+- [ ] -Movie Musics
+- [ ] -Movie Quotes
+- [ ] -Oscars
+- [ ] -Old Movies
+- [ ] -Marvel Movies
+- [ ] -DC Movies
 
 Sports
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
+- [ ] -Football
+- [ ] -Basketball
+- [ ] -Tennis
+- [ ] -Volleyball
+- [ ] -Race
+- [ ] -Olympics
+- [ ] -Fitness
+- [ ] -Diets
+- [ ] -Records
+- [ ] -Sports History
 
+Logos
+- [ ] -General Logos
+- [ ] -Cloth Logos
+- [ ] -Team Logos
+- [ ] -Food Logos
+- [ ] -Technology Logos
+- [ ] -Luxury Logos
+- [ ] -App Logos
+- [ ] -Old Logos
+- [ ] -Band Logos
+- [ ] -Game Logos
 Math
-- [ ] -Addition
-- [ ] -Substraction
+- [X] -Addition
+- [X] -Substraction
 - [x] -Multiplication
-- [ ] -Division
-- [ ] -Addition+
-- [ ] -Substraction+
-- [ ] -Multiplication+
-- [ ] -Division+
-- [ ] -Base
-- [ ] -Interest
+- [X] -Division
+- [X] -Addition+
+- [X] -Substraction+
+- [X] -Multiplication+
+- [X] -Division+
+- [X] -Exponential
+- [X] -Interest
 
 World
 - [x] -Flags
